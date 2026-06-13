@@ -2199,10 +2199,10 @@ end)
 
 infoTab:Show()
 infoTab:AddLabel("AAAAA").TextSize = 25
-infoTab:AddLabel("💬 Discord: https://discord.gg/8QkZzP2uxF").TextSize = 20
-infoTab:AddLabel("🙏 Made By AhmxdDev").TextSize = 20
+infoTab:AddLabel("💬 Discord: https://discord.gg/J7hWhaWYYk").TextSize = 20
+infoTab:AddLabel("🙏 Made By Ruru").TextSize = 20
 infoTab:AddButton("📋 Copy Discord Server link", function()
-    local link = "https://discord.gg/jV7HsaKCyP"
+    local link = "https://discord.gg/J7hWhaWYYk"
     if setclipboard then
         setclipboard(link)
         game.StarterGui:SetCore("SendNotification", {
